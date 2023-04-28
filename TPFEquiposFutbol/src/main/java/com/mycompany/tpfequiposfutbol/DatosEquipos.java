@@ -35,7 +35,7 @@ while(rs.next()) {
 
 
 //Sentencia para pedir por medio de un Scanner datos de un equipo especifico basado en el ranking.
-//Utilizacion de un bucle while para que el programa siga ejecutandose y pueda hacer varias consultas.
+
 System.out.println();
 System.out.println("Ingrese la posicion del ranking para ver la informacion del equipo. Desde posicion 1 a 28. Escriba \"salir\" para terminar el programa");
 System.out.println();
